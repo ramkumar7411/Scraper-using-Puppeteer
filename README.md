@@ -18,6 +18,7 @@ This module is an Open Source Software maintained by one developer in free time.
 npm install website-scraper website-scraper-puppeteer
 ```
 
+
 ## Usage
 ```javascript
 import scrape from 'website-scraper';
